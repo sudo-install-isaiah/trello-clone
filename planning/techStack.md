@@ -1,4 +1,4 @@
 Frontend: React + TypeScript
 Backend: Rust
-Database: MySql
+Database: PostgresQL
 Styling: Material UI
